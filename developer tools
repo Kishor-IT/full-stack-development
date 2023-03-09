@@ -1,0 +1,29 @@
+This developer tool is already built in chrome browser.
+This is used to view and manipulate the elements ,and also helps to edit the page on the fly.
+We can check all the code styles using this developer tool.
+
+                 (   To inspect the shortcuts we can use shift+control+j in windows.  )
+
+This allows to display an element that is clicked by the user.
+We can see how it looks in other devices from this tool itself.
+Screen size can be changed.
+By choosing mobile option or the iphone option we can see the image in the landscape view or the portrait view.
+
+There are several tabs use din this developer tool like,
+1)Responsive tool 
+        This tool helps to edit the list and add every single device we want.
+        The styles and colour of the image can be viewed by using this option.
+2)Elements tab
+        This tabs allows to find all elements of page.(font size,font colour,font weight)
+3)Console tab
+        Here all the javascript ,console logs,messages are going to be printed in this console space.
+        User can check what error is there in the code with the help of the console screen option.
+4)Source panel
+        We can browse all he site files, read and edit the code here.
+        Debugging can also be done here.
+5)Lighthouse tab
+        Analyse performance of the page.
+        Helps to track the speed of the page.
+6)Network tab
+        We can see everything when it is loaded.
+        Which one was first loaded and which one was loaded at the end.
